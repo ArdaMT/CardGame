@@ -1,3 +1,4 @@
+package main.java;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +14,7 @@ import java.util.Scanner;
  * This is a program for a simple game of cards between a player and the computer.
  * the program randomly allocates 5 cards to both the player and the computer.
  * It then applies the rules in the GameRules.java class and tells who won the round.
- * Here, the player has the option to play another round or to quit the game.
+ * Here,y the player has the option to play another round or to quit the game.
  *
  * @author Arda
  */
